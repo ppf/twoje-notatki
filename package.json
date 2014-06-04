@@ -1,0 +1,15 @@
+{
+    "name": "YourNotes",
+    "version": "0.0.1",
+    "description": "Site for keeping notes",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest",
+        "emailjs": "latest",
+        "moment": "latest",
+        "mongodb": "latest",
+        "stylus": "latest"
+    },
+    "author": "Piotr Francuz"
+}
